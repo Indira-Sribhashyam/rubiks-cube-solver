@@ -48,9 +48,7 @@ draw\_cube(cube)
 
 This project uses the Iterative Deepening A\* (IDA\*) algorithm which combines the benefits of depth-first search and A\* by incrementally deepening the search while pruning states based on a heuristic estimate.
 
-## 📸 Screenshots
 
-(Add cube images or output screenshots here if available)
 
 ## ✨ Future Improvements
 
@@ -67,6 +65,3 @@ Pull requests are welcome! For any feature suggestions or issues, feel free to o
 
 This project is licensed under the MIT License.
 
----
-
-Let me know if you want to personalize the name or credits at the bottom.
